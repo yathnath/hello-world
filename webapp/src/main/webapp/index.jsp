@@ -8,7 +8,7 @@
     <input type="text" placeholder="Enter Full Name Bhosidike" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>Enter mobile</b></label>
+    <label for="mobile"><b>Enter mobile maakichoot</b></label>
     <input type="text" placeholder="Enter moible number chutiya" name="mobile" id="mobile" required>
     <br>
 
